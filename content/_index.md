@@ -1,9 +1,7 @@
 +++
 title = "Tom Taylor"
-
 description = "seat moistener"
+template = "index.html"
 +++
-
-# Yo
-
-Blog of stuff I do!
+# [About me](./about/)
+# [Blog posts](./blog/)

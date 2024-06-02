@@ -3,6 +3,7 @@ base_url = "https://planccck.xyz"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
+generate_feed = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -16,3 +17,11 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+# header_nav = true
+favicon = "/favicon.ico"
+header_nav = [
+  { url = "/", name_en = "home" },
+  { url = "/about", name_en = "about" },
+  { url = "/blog", name_en = "blog" }
+]
+list_pages = true
