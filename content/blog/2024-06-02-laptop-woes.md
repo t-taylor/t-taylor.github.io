@@ -30,8 +30,8 @@ I've gone through a lot of laptops recently. These are my thoughs on them.
 - Liked the whole modular repairable deal
 - 3:2 screen was nice, but not as good as the 16:10. Also 60Hz which is a big downgrade when you get used to 120
 - Ended having MASSIVE issues
-  * burnt with the fingerprint reader due to the short
-  * this sort fucked up the trackpad and the mainboard sound card
+  * burnt with the fingerprint reader due to an electrical short
+  * this short fucked up the trackpad and the mainboard sound card
   * got a free replacement mainboard
   * sound still didn't work due the speakers being killed from the original short
   * after speakers were replaced, worked fine for ~1 month and then suddenly refused to charge
