@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title></title>
+    <link href="https://planccck.xyz/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://planccck.xyz"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-02T00:00:00+00:00</updated>
+    <id>https://planccck.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Laptop Woes 💻</title>
+        <published>2024-06-02T00:00:00+00:00</published>
+        <updated>2024-06-02T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://planccck.xyz/blog/laptop-woes/" type="text/html"/>
+        <id>https://planccck.xyz/blog/laptop-woes/</id>
+        
+        <content type="html">&lt;p&gt;I&#x27;ve gone through a lot of laptops recently. These are my thoughs on them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;thinkpad-x250&quot;&gt;Thinkpad x250&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lasted me 6 years thorough 3 years of BSc computer science &amp;amp; MSc data science&lt;&#x2F;li&gt;
+&lt;li&gt;Only had to open it once to add a 1Tb hard drive&lt;&#x2F;li&gt;
+&lt;li&gt;Put various linux distros on and never had any hardware problems with any of it&lt;&#x2F;li&gt;
+&lt;li&gt;Never really felt the need to replace it. The only issue was it couldn&#x27;t comfortably support multiple screens or run gamecube emulation.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;asus-g14-2023&quot;&gt;ASUS G14 2023&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First attempt at replacing the thinkpad&lt;&#x2F;li&gt;
+&lt;li&gt;Amazing screen. Loved the 16:10 &amp;amp; 120Hz and colours were great&lt;&#x2F;li&gt;
+&lt;li&gt;Amazing speakers. Best bass I&#x27;ve ever heard in a laptop&lt;&#x2F;li&gt;
+&lt;li&gt;Though I&#x27;d try going back to windows. I couldn&#x27;t last. Windows 11 really, really sucks.&lt;&#x2F;li&gt;
+&lt;li&gt;Tried putting linux on it, but there&#x27;s not great support, and had some issues with the multi gpu setup.&lt;&#x2F;li&gt;
+&lt;li&gt;Sold after ~2 months&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;framework-13-intel-13th-gen&quot;&gt;Framework 13 intel 13th gen&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enticed me with the first class linux support.&lt;&#x2F;li&gt;
+&lt;li&gt;Liked the whole modular repairable deal&lt;&#x2F;li&gt;
+&lt;li&gt;3:2 screen was nice, but not as good as the 16:10. Also 60Hz which is a big downgrade when you get used to 120&lt;&#x2F;li&gt;
+&lt;li&gt;Ended having MASSIVE issues
+&lt;ul&gt;
+&lt;li&gt;burnt with the fingerprint reader due to an electrical short&lt;&#x2F;li&gt;
+&lt;li&gt;this short fucked up the trackpad and the mainboard sound card&lt;&#x2F;li&gt;
+&lt;li&gt;got a free replacement mainboard&lt;&#x2F;li&gt;
+&lt;li&gt;sound still didn&#x27;t work due the speakers being killed from the original short&lt;&#x2F;li&gt;
+&lt;li&gt;after speakers were replaced, worked fine for ~1 month and then suddenly refused to charge&lt;&#x2F;li&gt;
+&lt;li&gt;had to replace the mainboard AGAIN&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;After this, my dad took it off my hands. I&#x27;ve got a full time job and I don&#x27;t have the time to spend messing around getting a laptop to work that shouldn&#x27;t have these issues&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;tuxedo-pulse-13-gen-3&quot;&gt;Tuxedo pulse 13 gen 3&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Looked perfect so I bought it: 16:10 120Hz screen, AMD cpu, linux fully supported, usb c charging.&lt;&#x2F;li&gt;
+&lt;li&gt;Been using it for ~5 months now. Very happy with it&lt;&#x2F;li&gt;
+&lt;li&gt;Great screen, ok speakers, no problems with linux compatibility&lt;&#x2F;li&gt;
+&lt;li&gt;Only gripe is the screws for the bottom plate are poor quality, so I stripped on trying to get the plate off for the second time.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
