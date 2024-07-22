@@ -1,5 +1,5 @@
 +++
-title = "Golang Tricks for faster api throughput"
+title = "Golang memory streamlining for high throughput APIs"
 
 description = "Don't rely on the GC"
 
@@ -96,6 +96,8 @@ func (p *Pool) Get() (data any, close func()) {
 
     p.pl.Put(data)
   }
+
+  return
 }
 ```
 
