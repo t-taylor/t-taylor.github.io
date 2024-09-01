@@ -14,4 +14,6 @@ I had a very positive first session. Going from some Evolv Sharmans, they feel s
 
 Size wise, I've picked spot on. I'm a 9 in the sharmans, and I've picked a 41 EU in the mantras, which seems perfect. Note that if you're getting these in the UK, beware that the 41 and 41.5 both say they're a 7.5 UK in shops. This also varies between the 2023 mantras and the 2024 mantras, where the boundaries are a tiny bit different. Trying them on at home, I was a bit worried they would be too big, but on the gym, they feel perfect[^1]. I've got a wide foot, and I feel the shape is perfect for me. Considering they're pretty thin though, if they strech, they might get a bit loose, so time will tell.
 
+![Day 1 pic](/images/blog/la-sportiva-day-1.jpg)
+
 [^1]: I'm a size 9 or 8.5 wide in UK size. I've got a pretty square foot as well.
