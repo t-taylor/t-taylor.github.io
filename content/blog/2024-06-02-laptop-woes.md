@@ -20,7 +20,7 @@ I've gone through a lot of laptops recently. These are my thoughs on them.
 - First attempt at replacing the thinkpad
 - Amazing screen. Loved the 16:10 & 120Hz and colours were great
 - Amazing speakers. Best bass I've ever heard in a laptop
-- Though I'd try going back to windows. I couldn't last. Windows 11 really, really sucks.
+- Thought I'd try going back to windows. I couldn't last. Windows 11 really, really sucks.
 - Tried putting linux on it, but there's not great support, and had some issues with the multi gpu setup.
 - Sold after ~2 months
 
