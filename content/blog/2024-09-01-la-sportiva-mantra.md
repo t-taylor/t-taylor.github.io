@@ -17,3 +17,9 @@ Size wise I've picked spot on. I'm a 9 in the sharmans and I've picked a 41 EU i
 ![Day 1 pic](/images/blog/la-sportiva-day-1.jpg)
 
 [^1]: I'm a size 9 or 8.5 wide in UK size. I've got a pretty square foot as well.
+
+## Week 1
+
+Now that I've spent a little bit more time, I can feel the areas that the shoe is a little weak in. Without the midsole and with thin rubber, the shoe feels very comfortable and easy to fit into; you have to be very confident with toe strength and foot placement. With the outside edge especially, it's very easy to slip off a small foothold where with a midsole you would be able to hold on. In particular, pebble footholds can be agony and make you feel almost like you are risking punching through the rubber. With all that said, I'm still very much having fun with the shoe. Very good on volumes, very good on front-on small edges, very comfortable still.
+
+I've had a couple of sweaty sessions this week, and so the shoes have stretched a tiny bit, maybe 1/4 of a size. I'm pretty pleased with this, and so I would say when buying this shoe, treat the fitting size as the final size as well. The shoe keeps its size very well, only stretching enough to make any sore spots eventually disapear.
